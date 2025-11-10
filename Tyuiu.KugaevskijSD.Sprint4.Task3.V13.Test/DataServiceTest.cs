@@ -8,14 +8,14 @@ public class DataServiceTest
     public void Calculate_Test()
     {
         int[,] matrix = {
-            {6, 3, 5, 7, 5},
-            {3, 5, 7, 4, 5},
-            {5, 6, 4, 5, 4},
-            {7, 4, 7, 3, 3},
-            {4, 6, 5, 5, 6}
+            {4, 7, 4, 2, 1},
+            {6, 7, 3, 6, 5},
+            {6, 5, 3, 3, 5},
+            {4, 4, 6, 4, 7},
+            {2, 1, 2, 3, 4}
         };
         DataService dataService = new DataService();
-        int expectedSum = 44; 
+        int expectedSum = 18; 
 
         int actualSum = dataService.Calculate(matrix);
 
