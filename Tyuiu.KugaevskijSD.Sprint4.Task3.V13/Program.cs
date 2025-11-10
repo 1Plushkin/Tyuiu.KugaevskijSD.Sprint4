@@ -27,21 +27,21 @@ internal class Program
         Console.WriteLine("-                                                                      -");
         Console.WriteLine("------------------------------------------------------------------------");
         Console.WriteLine("- ИСХОДНЫЕ ДАННЫЕ:                                                     -");
-        Console.WriteLine("- 6, 3, 5, 7, 5,                                                       -");
-        Console.WriteLine("- 3, 5, 7, 4, 5,                                                       -");
-        Console.WriteLine("- 5, 6, 4, 5, 4,                                                       -");
-        Console.WriteLine("- 7, 4, 7, 3, 3,                                                       -");
-        Console.WriteLine("- 4, 6, 5, 5, 6,                                                       -");
+        Console.WriteLine("- 4, 7, 4, 2, 1,                                                       -");
+        Console.WriteLine("- 6, 7, 3, 6, 5,                                                      -");
+        Console.WriteLine("- 6, 5, 3, 3, 5,                                                      -");
+        Console.WriteLine("- 4, 4, 6, 4, 7,                                                      -");
+        Console.WriteLine("- 2, 1, 2, 3, 4,                                                      -");
         Console.WriteLine("-                                                                      -");
         Console.WriteLine("------------------------------------------------------------------------");
         Console.WriteLine("- РЕЗУЛЬТАТ:                                                           -");
 
         int[,] matrix = {
-    {6, 3, 5, 7, 5},
-    {3, 5, 7, 4, 5},
-    {5, 6, 4, 5, 4},
-    {7, 4, 7, 3, 3},
-    {4, 6, 5, 5, 6}
+    {4, 7, 4, 2, 1},
+    {6, 7, 3, 6, 5},
+    {6, 5, 3, 3, 5},
+    {4, 4, 6, 4, 7},
+    {2, 1, 2, 3, 4}
 };
 
         int sumOfEvenElements = dataService.Calculate(matrix);
