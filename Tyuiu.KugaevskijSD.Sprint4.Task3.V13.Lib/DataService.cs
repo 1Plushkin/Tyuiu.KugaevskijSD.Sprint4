@@ -1,7 +1,7 @@
 ﻿using tyuiu.cources.programming.interfaces.Sprint4;
 namespace Tyuiu.KugaevskijSD.Sprint4.Task3.V13.Lib;
 
-public class DataService : ISprint4Task4V13
+public class DataService : ISprint4Task3V13
 {
     public int Calculate(int[,] matrix)
     {
