@@ -15,7 +15,7 @@ internal class Program
         Console.Title = "Спринт #4 | Выполнил: Кугаевский С. Д. | АСОиУб-25-1";
         Console.WriteLine("------------------------------------------------------------------------");
         Console.WriteLine("- Спринт #4                                                            -");
-        Console.WriteLine("- Тема: Двумерные массивы(ввод с клавиатуры)                           -");
+        Console.WriteLine("- Тема: Двумерные массивы                                              -");
         Console.WriteLine("- Задание #4                                                           -");
         Console.WriteLine("- Вариант #13                                                          -");
         Console.WriteLine("- Выполнил Кугаевский Сергей Дмитриевич | АСОиУб-25-1                  -");
@@ -24,7 +24,6 @@ internal class Program
         Console.WriteLine("- Дан двумерный целочисленный массив 5 на 5 элементов, заполненный     -");
         Console.WriteLine("- значениями с клавиатуры в диапазоне от 1 до 7.                       -");
         Console.WriteLine("- Найдите сумму четных элементов массива.                              -");
-        Console.WriteLine("-                                                                      -");
         Console.WriteLine("------------------------------------------------------------------------");
         Console.WriteLine("- ИСХОДНЫЕ ДАННЫЕ:                                                     -");
         Console.WriteLine("- 4, 7, 4, 2, 1,                                                       -");
@@ -32,7 +31,6 @@ internal class Program
         Console.WriteLine("- 6, 5, 3, 3, 5,                                                       -");
         Console.WriteLine("- 4, 4, 6, 4, 7,                                                       -");
         Console.WriteLine("- 2, 1, 2, 3, 4,                                                       -");
-        Console.WriteLine("-                                                                      -");
         Console.WriteLine("------------------------------------------------------------------------");
         Console.WriteLine("- РЕЗУЛЬТАТ:                                                           -");
 

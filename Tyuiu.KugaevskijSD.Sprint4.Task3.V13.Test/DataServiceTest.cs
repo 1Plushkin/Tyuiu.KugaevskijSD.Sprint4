@@ -15,7 +15,7 @@ public class DataServiceTest
             {2, 1, 2, 3, 4}
         };
         DataService dataService = new DataService();
-        int expectedSum = 18; 
+        int expectedSum = 18;
 
         int actualSum = dataService.Calculate(matrix);
 
