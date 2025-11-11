@@ -26,8 +26,4 @@ public class DataService : ISprint4Task4V30
         return array;
     }
 
-    int ISprint4Task4V30.Calculate(int[,] matrix)
-    {
-        throw new NotImplementedException();
-    }
 }

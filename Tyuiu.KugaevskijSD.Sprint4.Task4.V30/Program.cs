@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Tyuiu.KugaevskijSD.Sprint4.Task4.V30.Lib;
 
 namespace Tyuiu.KugaevskijSD.Sprint4.Task4.V30;
-    class Program
+class Program
 {
     static void Main(string[] args)
     {

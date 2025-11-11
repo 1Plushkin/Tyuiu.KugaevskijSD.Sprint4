@@ -19,7 +19,7 @@ public class DataServiceTest
                         { 6, 0, 6, 0, 0 },
                         { 0, 0, 0, 0, 6 },
                         { 6, 4, 0, 6, 6 },
-                        { 0, 4, 0, 4, 0 } }; 
+                        { 0, 4, 0, 4, 0 } };
 
         CollectionAssert.AreEqual(wait, res);
     }
