@@ -22,7 +22,7 @@ namespace Tyuiu.KugaevskijSD.Sprint4.Task7.V8;
         Console.WriteLine("- Спринт #4                                                               -");
         Console.WriteLine("- Тема: Добавление к решению итоговых проектов по спринту                 -");
         Console.WriteLine("- Задание #7                                                              -");
-        Console.WriteLine("- Вариант #10                                                             -");
+        Console.WriteLine("- Вариант #8                                                             -");
         Console.WriteLine("- Выполнила: Кугаевский Сергей Дмитриевич | АСОиУб-25-1                   -");
         Console.WriteLine("---------------------------------------------------------------------------");
         Console.WriteLine("- УСЛОВИЕ:                                                                -");
